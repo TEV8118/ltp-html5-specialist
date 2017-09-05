@@ -1,1 +1,1 @@
-# ltp-html5-specialist
+# TEV's HTML5 Specialist Repository
